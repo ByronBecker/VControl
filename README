@@ -24,3 +24,8 @@ Lab 4 - Version Control
 7. Checkout the master branch
 	git checkout master
 8. Edit and commit at least one of the files in this branch
+	git add .
+	git commit -m "message"
+
+
+BLAAAAAAAAA
