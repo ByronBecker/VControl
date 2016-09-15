@@ -26,7 +26,15 @@ Lab 4 - Version Control
 8. Edit and commit at least one of the files in this branch
 	git add .
 	git commit -m "message"
+9.	Merge the testing new files branch into the master branch
+	git merge testing-new-files
+10. Checkout the testing new files branch
+	git checkout testing-new-files
+11. Edit and commit at least one of the files in this branch
+	git add .
+	git commit -m "commit to new branch"
+12. Push all of your changes in both branches to your remote repo
+	git push --all
 
+	
 
-BLAAAAAAAAA
-OOOOOOOOOO
