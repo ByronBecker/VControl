@@ -18,14 +18,11 @@ Lab 4 - Version Control
 5. Create and checkout a new branch named testing-new-files
 	git checkout -b testing-new-files
 6. Add and commit a few more files to this branch
-<<<<<<< HEAD
 	git add .
 	git commit -m "Updated Readme and added new files"
 	git push origin testing-new-files
 7. Checkout the master branch
 	git checkout master
 8. Edit and commit at least one of the files in this branch
-	-edited the readme
-
-=======
->>>>>>> testing-new-files
+	edited the readme
+9. Merge the testing-new-files branch into the master branch	
