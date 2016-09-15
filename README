@@ -24,8 +24,6 @@ Lab 4 - Version Control
 7. Checkout the master branch
 	git checkout master
 8. Edit and commit at least one of the files in this branch
-	edited the readme
-9. Merge the testing-new-files branch into the master branch	
+	git add .
+	git commit -m "message"
 
-
-Heyseiotjseiotjsoiejtsoiejtsioejt
