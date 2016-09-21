@@ -7,6 +7,8 @@ Lab 4 - Version Control
 	https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 	downloaded homebrew
 	linked hub to git
+            alias git='hub'
+            hub create
 	configd my git username and email
 2. Add and commit a simple README and a few other file
 	git add . 
@@ -35,6 +37,5 @@ Lab 4 - Version Control
 	git commit -m "commit to new branch"
 12. Push all of your changes in both branches to your remote repo
 	git push --all
-
 	
 
